@@ -14,7 +14,7 @@
 
 
 
-# TO DO – Simple Python CLI Task Manager 
+# TO DO – Simple Python Task Manager 
 
 A lightweight and easy-to-use To-Do List app built with Python.  
 It runs in the terminal and saves your tasks in a text file (`tasks.txt`).
@@ -24,7 +24,6 @@ It runs in the terminal and saves your tasks in a text file (`tasks.txt`).
 - Add new tasks
 - View all saved tasks
 - Delete tasks by number
-- ASCII logo at startup
 - Saves tasks between sessions
 
 ##  How to Use
